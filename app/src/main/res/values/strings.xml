@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Cash Flow</string>
+    <string name="sign_in_description_label">Sign in with your credentials</string>
+    <string name="sign_up_description_label">Sign up to Cashflow manager</string>
+    <string name="email_placeholder">E-mail</string>
+    <string name="password_placeholder">Password</string>
+    <string name="display_name_placeholder">Display name</string>
+    <string name="confirm_password_placeholder">Confirm password</string>
+    <string name="inbox_name_placeholder">Inbox name</string>
+    <string name="sign_in_button_label">Sign in</string>
+    <string name="sign_up_button_label">Sign up</string>
+    <string name="add_inbox_button_label">Add inbox</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="dont_have_an_account_label">Don\'t have an account?</string>
+    <string name="already_have_an_account_label">Already have an account?</string>
+
+    <string name="auth_error_header">Authentication error</string>
+    <string name="auth_error_description">It seems that you have entered incorrect credentials, please try again…</string>
+
+    <string name="password_too_short_error_header">Oops, password too weak</string>
+    <string name="password_too_short_error_description">Password must contain both letters and numbers and minimum of 6 characters</string>
+    <string name="passwords_not_matching_error_header">Passwords not matching</string>
+    <string name="passwords_not_matching_error_description">Please make sure that entered passwords are matching</string>
+    <string name="server_error_header">Server error</string>
+    <string name="server_error_description">There was an error on our side. Please try again.</string>
+    <string name="already_exists_error_header">Already exists</string>
+    <string name="already_exists_error_description">This email/display name is already taken.</string>
+    <string name="form_not_populated_header">Oops</string>
+    <string name="form_not_populated_description">Please populate all form fields.</string>
+    <string name="invalid_email_header">Invalid email</string>
+    <string name="invalid_email_description">Please enter a correct email address</string>
+    <string name="invalid_old_password_header">Invalid old password</string>
+    <string name="invalid_old_password_description">Please enter a correct old password or do not re-use old password  in order to change it</string>
+    <string name="empty_list_error">Your inbox list is empty. You can add one by tapping on the CTA button below.</string>
+    <string name="empty_entries_list_error">Your expenses &amp; payments list is empty. You can add one by tapping on the CTA button below.</string>
+
+    <string name="insert_inbox_header">Insert inbox</string>
+    <string name="edit_inbox_header">Edit inbox</string>
+    <string name="inbox_details_header">Inbox options</string>
+    <string name="edit_label">Edit</string>
+    <string name="deactivate_label">Deactivate</string>
+    <string name="activate_label">Activate</string>
+    <string name="expenses_and_payments">Expenses &amp; Payments</string>
+    <string name="inbox_users_manager_label">Inbox users manager</string>
+    <string name="user_email">User email</string>
+    <string name="add_user">Add user</string>
+    <string name="remove_user">Remove user</string>
+    <string name="payment_label">Payment</string>
+    <string name="expense_label">Expense</string>
+    <string name="payments_label">Payments</string>
+    <string name="expenses_label">Expenses</string>
+    <string name="balance_label">Balance</string>
+    <string name="submit_button">Submit</string>
+    <string name="note_placeholder">Note</string>
+    <string name="amount_placeholder">Amount</string>
+    <string name="expense_name_placeholder">Expense name</string>
+    <string name="expenses_and_payments_label">Expenses &amp; Payments</string>
+
+    <string name="inbox_last_updated">Last updated: %s</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="two_days_ago">Two days ago</string>
+
+    <!-- TOAST STRINGS -->
+    <string name="toast_entry_name_field_empty">Entry name field is empty.</string>
+    <string name="toast_entry_note_field_empty">Entry note field is empty.</string>
+    <string name="toast_entry_amount_value_invalid">Invalid entry amount value.</string>
+    <string name="toast_inbox_name_field_empty">Inbox name field is empty.</string>
+    <string name="toast_user_email_field_empty">User email field is empty.</string>
+    <string name="toast_logout_error">There was an issue logging out. Please try again.</string>
+    <string name="toast_register_success">You have been successfully registered.</string>
+    <string name="toast_insert_inbox_success">Inbox successfully inserted.</string>
+    <string name="toast_insert_inbox_error">There was an issue inserting inbox.</string>
+    <string name="toast_remove_inbox_success">Inbox successfully removed.</string>
+    <string name="toast_remove_inbox_error">There was an issue removing inbox.</string>
+    <string name="toast_edit_inbox_success">Inbox successfully edited.</string>
+    <string name="toast_edit_inbox_error">There was an issue editing inbox.</string>
+    <string name="toast_deactivate_inbox_success">Inbox successfully de-activated.</string>
+    <string name="toast_deactivate_inbox_error">There was an issue de-activating your inbox.</string>
+    <string name="toast_activate_inbox_success">Inbox successfully activated.</string>
+    <string name="toast_activate_inbox_error">There was an issue activating your inbox.</string>
+</resources>

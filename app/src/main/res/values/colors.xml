@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C5D359</color>
+    <color name="circrular_progress_color_start">#d3e35f</color>
+    <color name="circrular_progress_color_end">#CC939e41</color>
+    <color name="colorPrimaryDark">#C5D359</color>
+    <color name="colorAccent">#000</color>
+    <color name="background_white">#F9F9F9</color>
+    <color name="header_text_color">#FFFFFF</color>
+    <color name="regular_text_color">#262926</color>
+    <color name="regular_text_color_alpha_60">#565956</color>
+    <color name="placeholder_text_color">#9e9e9e</color>
+    <color name="button_text_color">#000</color>
+    <color name="progress_bar_background_overlay">#33000000</color>
+    <color name="dialog_background">#e6eef0</color>
+    <color name="balance_color_red">#db4818</color>
+</resources>
